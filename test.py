@@ -7,8 +7,8 @@ def bye():
     
   
 def check():
-   print("Does it pass?")
+    print("Does it pass?")
 
 
 print(hello())
- print(check())
+print(check())
